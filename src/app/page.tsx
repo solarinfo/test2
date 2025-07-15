@@ -4,7 +4,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold text-blue-600 mb-4">Welcome to My App</h1>
       <p className="text-gray-700 text-lg mb-6">
         Salam! This is a basic homepage built with Next.js and Tailwind CSS.
-        Bismillah! 
+        By Solar ICT! 
       </p>
       <a
         href="/about"
