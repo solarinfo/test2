@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main className="flex flex-col items-center justify-center min-h-screen p-8 bg-gray-100">
-      <h1 className="text-4xl font-bold text-blue-600 mb-4">Welcome to Solar ICT, Switzerland</h1>
+      <h1 className="text-4xl font-bold text-blue-600 mb-4">Welcome to Solar ICT, Bangladesh</h1>
       <p className="text-gray-700 text-lg mb-6">
         Salam! This is a basic homepage built with Next.js and Tailwind CSS.
         By Solar ICT! 
